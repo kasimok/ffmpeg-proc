@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "avutil.h": "c",
+        "array": "c"
+    }
+}
